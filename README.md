@@ -2,7 +2,7 @@
 
 ![TIP3P Water Box Simulation](simulation_output/trajectory.gif)
 
-A comprehensive molecular dynamics simulation of a TIP3P water box using modern computational chemistry tools. This project demonstrates the complete pipeline from system setup to analysis, showcasing the behavior of water molecules under realistic periodic boundary conditions.
+A comprehensive molecular dynamics simulation of a TIP3P water box using modern computational chemistry tools. This project was developed in the **Ding Lab at Tufts University** and demonstrates the complete pipeline from system setup to analysis, showcasing the behavior of water molecules under realistic periodic boundary conditions.
 
 ## 📊 Analysis Results
 
@@ -159,7 +159,7 @@ This project demonstrates:
 
 ## 🤝 Contributing
 
-This project serves as a reference implementation for TIP3P water simulations. Contributions that improve accuracy, efficiency, or documentation are welcome.
+This project serves as a reference implementation for TIP3P water simulations. Contributions that improve accuracy, efficiency, or documentation are welcome. This code uses standard open-source molecular dynamics tools and established methodologies, making it suitable for educational and research purposes.
 
 ## 📚 References
 
@@ -169,4 +169,4 @@ This project serves as a reference implementation for TIP3P water simulations. C
 
 ---
 
-*This project showcases modern scientific computing techniques in computational chemistry, combining molecular simulation, statistical analysis, and data visualization using open-source tools.*
+*This project was developed in the Ding Lab at Tufts University and showcases modern scientific computing techniques in computational chemistry, combining molecular simulation, statistical analysis, and data visualization using open-source tools.*
