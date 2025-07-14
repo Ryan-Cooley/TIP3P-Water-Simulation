@@ -163,7 +163,6 @@ This project serves as a reference implementation for TIP3P water simulations. C
 
 ## 📚 References
 
-- Jorgensen, W. L., et al. "Comparison of simple potential functions for simulating liquid water." *J. Chem. Phys.* 79, 926 (1983)
 - OpenMM Documentation: https://openmm.org/
 - MDTraj Documentation: https://mdtraj.org/
 - AmberTools Documentation: https://ambermd.org/
