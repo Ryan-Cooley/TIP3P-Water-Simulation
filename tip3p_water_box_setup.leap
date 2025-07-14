@@ -1,0 +1,8 @@
+# MUST BE IN COMPUTING NODE
+
+source leaprc.water.tip3p
+
+water = createUnit "WAT"  # Create a unit, commonly referred to as "WAT" in some systems
+solvateBox water TIP3PBOX 50.0  # Now water is a defined unit
+saveAmberParm water waterbox1.prmtop waterbox1.inpcrd
+quit
